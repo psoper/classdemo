@@ -1,0 +1,19 @@
+body
+{
+background-color: #2F352C;
+color: #DBFFFF;
+
+}
+
+#cafe{
+	position: absolute;
+	margin: auto 0;
+	width: 60%;
+}
+.centerImage{
+	text-align: center;
+}
+
+#Header{
+	background-color: #050504
+}
